@@ -105,7 +105,7 @@
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Longterm Goals
 
 - 🚀 Build impactful AI projects
 - 📚 Learn advanced Machine Learning
