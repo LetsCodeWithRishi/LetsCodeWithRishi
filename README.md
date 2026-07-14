@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aagnishwar Bhattacharya</h1>
 
 <h3 align="center">
-🎓 Student | 🤖 AI & Machine Learning Enthusiast | 💻 Building Intelligent Projects
+🎓 Class 8 Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Passionate About Technology
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Exploring+Deep+Learning+and+Generative+AI;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Class+8+Student;AI+%26+Machine+Learning+Enthusiast;Building+Projects+with+Python;Exploring+Open+Source;Learning+Something+New+Every+Day" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student passionate about Artificial Intelligence and Machine Learning
-- 🤖 Exploring Deep Learning, Computer Vision, NLP, and Generative AI
-- 💻 Building real-world AI/ML projects with Python
-- 🌱 Currently learning PyTorch, TensorFlow, FastAPI, and MLOps
-- 🚀 Interested in Open Source and AI Research
-- 📫 Reach me at **YOUR_EMAIL**
+- 🎓 I'm currently a **Class 8 Student**
+- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🐍 Learning Python and building real-world projects
+- 🌱 Exploring Deep Learning, Computer Vision, and Generative AI
+- 💻 Love building projects and experimenting with new technologies
+- 🚀 Always curious to learn something new
 
 ---
 
@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,fastapi,flask,docker,git,github,linux,vscode,mysql,postgres,aws" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux,tensorflow,pytorch,opencv" />
 
 </p>
 
@@ -53,42 +53,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LetsCodeWithRishi&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
-- Large Language Models (LLMs)
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
+- Python
+- Machine Learning
 - Deep Learning
 - Computer Vision
-- MLOps
-- System Design
+- Generative AI
+- Open Source
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Goals for 2026
 
-Coming Soon...
-
-- 🤖 Face Recognition System
-- 🌿 Plant Disease Detection
-- 💬 AI Chatbot
-- 🧠 Sentiment Analysis
-- 📈 Stock Price Prediction
-- 📷 Image Caption Generator
+- ✅ Build amazing AI projects
+- ✅ Learn Deep Learning
+- ✅ Contribute to Open Source
+- ✅ Participate in Hackathons
+- ✅ Keep learning every day
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -102,12 +88,12 @@ Coming Soon...
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/agnishwar-bhattacharya-521946421/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:agnishwarbhattacharya986@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -126,6 +112,8 @@ Coming Soon...
 
 <div align="center">
 
-### 💡 "Learning never exhausts the mind—it empowers it."
+### ⭐ "Dream Big. Start Small. Learn Every Day."
+
+Thanks for visiting my profile! 😊
 
 </div>
