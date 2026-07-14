@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aagnishwar Bhattacharya</h1>
 
 <h3 align="center">
-🎓 Class 8 Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Passionate About Technology
+🎓 Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Passionate About Technology
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently a **Class 8 Student**
+- 🎓 I'm currently a **Student**
 - 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
 - 🐍 Learning Python and building real-world projects
 - 🌱 Exploring Deep Learning, Computer Vision, and Generative AI
